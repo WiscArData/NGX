@@ -1,0 +1,13 @@
+{
+    "deflections": {},
+    "gains": {},
+    "settings": [
+        {},
+        {},
+        {},
+        {
+            "mftable": "argon"
+        }
+    ],
+    "spectrometer": {}
+}
