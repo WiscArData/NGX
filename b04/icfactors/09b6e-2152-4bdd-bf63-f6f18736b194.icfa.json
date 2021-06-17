@@ -1,15 +1,29 @@
 {
     "Ax": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.003682171360330006,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-3920",
+                "uuid": "169854cd-b9c5-4333-a38d-8644c0f44a63"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.95557191222266
     },
     "H2": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0018571024209374655,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-3920",
+                "uuid": "169854cd-b9c5-4333-a38d-8644c0f44a63"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.97785087564977
     },
     "H4": {
         "error": 0.0,
@@ -18,15 +32,29 @@
         "value": 1.0
     },
     "L2": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.005458995868467366,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-3920",
+                "uuid": "169854cd-b9c5-4333-a38d-8644c0f44a63"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9333461189578863
     },
     "L4": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.007202092059210297,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-3920",
+                "uuid": "169854cd-b9c5-4333-a38d-8644c0f44a63"
+            }
+        ],
+        "reviewed": true,
+        "value": 0.9109752795332584
     }
 }
