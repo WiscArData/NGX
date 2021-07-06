@@ -1,1 +1,74 @@
-{}
+{
+    "Ax": {
+        "error": 0.0034598124294778383,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4016",
+                "uuid": "2673ddf9-ece4-4d06-971e-83dd4fe42c27"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4017",
+                "uuid": "e2c0da03-1448-466d-b39a-02c8b5a60e6b"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0247361774525592
+    },
+    "H2": {
+        "error": 0.0016841987684612515,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4016",
+                "uuid": "2673ddf9-ece4-4d06-971e-83dd4fe42c27"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4017",
+                "uuid": "e2c0da03-1448-466d-b39a-02c8b5a60e6b"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0121159119040852
+    },
+    "L2": {
+        "error": 0.005318356615718853,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4016",
+                "uuid": "2673ddf9-ece4-4d06-971e-83dd4fe42c27"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4017",
+                "uuid": "e2c0da03-1448-466d-b39a-02c8b5a60e6b"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0377853835811897
+    },
+    "L4": {
+        "error": 0.007283239699456385,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4016",
+                "uuid": "2673ddf9-ece4-4d06-971e-83dd4fe42c27"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4017",
+                "uuid": "e2c0da03-1448-466d-b39a-02c8b5a60e6b"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.05141135089998
+    }
+}
