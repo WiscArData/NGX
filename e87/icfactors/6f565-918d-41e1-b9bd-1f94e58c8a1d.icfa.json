@@ -1,1 +1,15 @@
-{}
+{
+    "L4": {
+        "error": 0.0,
+        "fit": "Preceding",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4016",
+                "uuid": "2673ddf9-ece4-4d06-971e-83dd4fe42c27"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0
+    }
+}
