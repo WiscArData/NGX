@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 1.7729020986003484e-07,
+        "error": 1.5876797464986815e-08,
         "error_type": "",
         "fit": "Bracketing Average",
         "references": [
@@ -46,10 +46,10 @@
             }
         ],
         "reviewed": true,
-        "value": 7.920879140036886e-07
+        "value": 8.324860987005647e-07
     },
     "Ar37": {
-        "error": 4.527193486420602e-07,
+        "error": 1.9961881754595062e-07,
         "error_type": "",
         "fit": "Bracketing Average",
         "references": [
@@ -95,10 +95,10 @@
             }
         ],
         "reviewed": true,
-        "value": -6.864842953853835e-08
+        "value": -2.769846548142914e-07
     },
     "Ar38": {
-        "error": 1.568435494428488e-07,
+        "error": 2.0495769838079593e-07,
         "error_type": "",
         "fit": "Bracketing Average",
         "references": [
@@ -144,10 +144,10 @@
             }
         ],
         "reviewed": true,
-        "value": 5.0101762031704434e-08
+        "value": 1.4644506741453124e-07
     },
     "Ar39": {
-        "error": 1.815292756657568e-07,
+        "error": 2.0931037648044614e-07,
         "error_type": "",
         "fit": "Bracketing Average",
         "references": [
@@ -193,10 +193,10 @@
             }
         ],
         "reviewed": true,
-        "value": 8.873143069872643e-07
+        "value": 9.789167319679582e-07
     },
     "Ar40": {
-        "error": 9.722301666072444e-07,
+        "error": 1.651231163464038e-06,
         "error_type": "",
         "fit": "Bracketing Average",
         "references": [
@@ -242,6 +242,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.00015304863103798665
+        "value": 0.00015795909610690964
     }
 }
