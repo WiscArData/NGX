@@ -1,6 +1,6 @@
 {
     "Ax": {
-        "error": 0.003061758198605373,
+        "error": 0.0032876388888939193,
         "fit": "exponential",
         "references": [
             {
@@ -12,15 +12,30 @@
                 "exclude": "ok",
                 "record_id": "a-01-N-4057",
                 "uuid": "d9f043f9-dbe5-4ef3-835b-1c8653ff771f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4058",
+                "uuid": "4353ff82-73cd-45fb-b82d-3e07453a1c5c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4059",
+                "uuid": "bf8608c7-744f-48a0-a656-7edf7b131781"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4060",
+                "uuid": "f8746d9d-338d-4247-9953-0575af242439"
             }
         ],
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0268151530565337
+        "value": 1.0263140519568716
     },
     "H2": {
-        "error": 0.0014888991934090474,
+        "error": 0.00159913830034281,
         "fit": "exponential",
         "references": [
             {
@@ -32,15 +47,30 @@
                 "exclude": "ok",
                 "record_id": "a-01-N-4057",
                 "uuid": "d9f043f9-dbe5-4ef3-835b-1c8653ff771f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4058",
+                "uuid": "4353ff82-73cd-45fb-b82d-3e07453a1c5c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4059",
+                "uuid": "bf8608c7-744f-48a0-a656-7edf7b131781"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4060",
+                "uuid": "f8746d9d-338d-4247-9953-0575af242439"
             }
         ],
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0131274143443316
+        "value": 1.0128837042526033
     },
     "L2": {
-        "error": 0.0047114176366723996,
+        "error": 0.005057723012661697,
         "fit": "exponential",
         "references": [
             {
@@ -52,15 +82,30 @@
                 "exclude": "ok",
                 "record_id": "a-01-N-4057",
                 "uuid": "d9f043f9-dbe5-4ef3-835b-1c8653ff771f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4058",
+                "uuid": "4353ff82-73cd-45fb-b82d-3e07453a1c5c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4059",
+                "uuid": "bf8608c7-744f-48a0-a656-7edf7b131781"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4060",
+                "uuid": "f8746d9d-338d-4247-9953-0575af242439"
             }
         ],
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.040982822797047
+        "value": 1.0402118284663717
     },
     "L4": {
-        "error": 0.006459049825730369,
+        "error": 0.006932005565195528,
         "fit": "exponential",
         "references": [
             {
@@ -72,11 +117,26 @@
                 "exclude": "ok",
                 "record_id": "a-01-N-4057",
                 "uuid": "d9f043f9-dbe5-4ef3-835b-1c8653ff771f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4058",
+                "uuid": "4353ff82-73cd-45fb-b82d-3e07453a1c5c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4059",
+                "uuid": "bf8608c7-744f-48a0-a656-7edf7b131781"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-4060",
+                "uuid": "f8746d9d-338d-4247-9953-0575af242439"
             }
         ],
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0557924646442114
+        "value": 1.0547356188117911
     }
 }
