@@ -1,25 +1,25 @@
 {
     "Ax": {
-        "error": 0.0018139594732146265,
+        "error": 0.0015112627546541649,
         "fit": "exponential",
         "references": [
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4090",
                 "uuid": "ab112e38-a0f3-4bd4-a6d2-f51889dbd26e"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4091",
                 "uuid": "da2dc03c-178b-4672-b5c7-a8ea19a2c0c8"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4092",
                 "uuid": "5e16745e-7a87-4028-b4ad-04489db396a0"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4093",
                 "uuid": "f67c38a7-7092-404f-9446-59269b93f029"
             },
@@ -34,12 +34,12 @@
                 "uuid": "804f20f9-9b4d-4088-972f-7384d4006943"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4097",
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4098",
                 "uuid": "f5caba9e-768e-42f3-904c-825ddf6c6859"
             },
@@ -107,29 +107,29 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0160162641807386
+        "value": 1.0083832944107152
     },
     "H2": {
-        "error": 0.0008868508340482997,
+        "error": 0.0007416924773257126,
         "fit": "exponential",
         "references": [
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4090",
                 "uuid": "ab112e38-a0f3-4bd4-a6d2-f51889dbd26e"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4091",
                 "uuid": "da2dc03c-178b-4672-b5c7-a8ea19a2c0c8"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4092",
                 "uuid": "5e16745e-7a87-4028-b4ad-04489db396a0"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4093",
                 "uuid": "f67c38a7-7092-404f-9446-59269b93f029"
             },
@@ -144,12 +144,12 @@
                 "uuid": "804f20f9-9b4d-4088-972f-7384d4006943"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4097",
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4098",
                 "uuid": "f5caba9e-768e-42f3-904c-825ddf6c6859"
             },
@@ -217,29 +217,29 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0078619552552714
+        "value": 1.0041230349337968
     },
     "L2": {
-        "error": 0.002776070685495728,
+        "error": 0.002303811516152046,
         "fit": "exponential",
         "references": [
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4090",
                 "uuid": "ab112e38-a0f3-4bd4-a6d2-f51889dbd26e"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4091",
                 "uuid": "da2dc03c-178b-4672-b5c7-a8ea19a2c0c8"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4092",
                 "uuid": "5e16745e-7a87-4028-b4ad-04489db396a0"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4093",
                 "uuid": "f67c38a7-7092-404f-9446-59269b93f029"
             },
@@ -254,12 +254,12 @@
                 "uuid": "804f20f9-9b4d-4088-972f-7384d4006943"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4097",
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4098",
                 "uuid": "f5caba9e-768e-42f3-904c-825ddf6c6859"
             },
@@ -327,11 +327,11 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0244108757648038
+        "value": 1.0127521835560902
     },
     "L4": {
-        "error": 0.0017778940456904266,
-        "fit": "Bracketing Average",
+        "error": 0.003127983707643854,
+        "fit": "exponential",
         "references": [
             {
                 "exclude": "ok",
@@ -364,12 +364,12 @@
                 "uuid": "804f20f9-9b4d-4088-972f-7384d4006943"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4097",
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4098",
                 "uuid": "f5caba9e-768e-42f3-904c-825ddf6c6859"
             },
@@ -435,7 +435,8 @@
             }
         ],
         "reviewed": true,
-        "standard_ratio": 298.56,
-        "value": 0.9821045170548348
+        "source_correction": true,
+        "standard_ratio": null,
+        "value": 1.0172757434353783
     }
 }
