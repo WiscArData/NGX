@@ -615,8 +615,8 @@
         "value": 1.041994437018676
     },
     "L4": {
-        "error": 0.004961397468479491,
-        "fit": "exponential",
+        "error": 0.0018969632040777501,
+        "fit": "Bracketing Average",
         "references": [
             {
                 "exclude": "ok",
@@ -649,7 +649,7 @@
                 "uuid": "c71e6bec-9005-4dbf-bd53-f803183019c3"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4063",
                 "uuid": "16adfd44-d82f-43be-8e6d-67ca20c1c2b4"
             },
@@ -815,8 +815,7 @@
             }
         ],
         "reviewed": true,
-        "source_correction": true,
-        "standard_ratio": null,
-        "value": 1.057179559473767
+        "standard_ratio": 298.56,
+        "value": 1.022732219065309
     }
 }
