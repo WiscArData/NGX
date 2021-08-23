@@ -1,6 +1,6 @@
 {
     "Ax": {
-        "error": 0.0015493983782029679,
+        "error": 0.0017335974968919652,
         "fit": "exponential",
         "references": [
             {
@@ -34,7 +34,7 @@
                 "uuid": "804f20f9-9b4d-4088-972f-7384d4006943"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4097",
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
@@ -74,7 +74,7 @@
                 "uuid": "8237b025-6569-49b3-bbf3-e7b1faa3ef14"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4121",
                 "uuid": "1c912185-fcf8-4b95-89cc-0e1929b150c8"
             },
@@ -107,10 +107,10 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0161940813393904
+        "value": 1.0094814530693366
     },
     "H2": {
-        "error": 0.0007574388076992218,
+        "error": 0.000850339668794814,
         "fit": "exponential",
         "references": [
             {
@@ -144,7 +144,7 @@
                 "uuid": "804f20f9-9b4d-4088-972f-7384d4006943"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4097",
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
@@ -184,7 +184,7 @@
                 "uuid": "8237b025-6569-49b3-bbf3-e7b1faa3ef14"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4121",
                 "uuid": "1c912185-fcf8-4b95-89cc-0e1929b150c8"
             },
@@ -217,10 +217,10 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0079488867992477
+        "value": 1.0046618368177942
     },
     "L2": {
-        "error": 0.0023714031610216147,
+        "error": 0.0026442348607656134,
         "fit": "exponential",
         "references": [
             {
@@ -254,7 +254,7 @@
                 "uuid": "804f20f9-9b4d-4088-972f-7384d4006943"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4097",
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
@@ -294,7 +294,7 @@
                 "uuid": "8237b025-6569-49b3-bbf3-e7b1faa3ef14"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4121",
                 "uuid": "1c912185-fcf8-4b95-89cc-0e1929b150c8"
             },
@@ -327,11 +327,11 @@
         "reviewed": true,
         "source_correction": true,
         "standard_ratio": null,
-        "value": 1.0246830182120272
+        "value": 1.0144267195174006
     },
     "L4": {
-        "error": 0.001581705387610997,
-        "fit": "Bracketing Average",
+        "error": 0.003592277760626729,
+        "fit": "exponential",
         "references": [
             {
                 "exclude": "ok",
@@ -369,12 +369,12 @@
                 "uuid": "18a9171a-c10b-4d65-bcf3-e49adda823dd"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4098",
                 "uuid": "f5caba9e-768e-42f3-904c-825ddf6c6859"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-01-N-4100",
                 "uuid": "c0690c74-9ab1-4874-af0d-1096627a33c0"
             },
@@ -404,7 +404,7 @@
                 "uuid": "8237b025-6569-49b3-bbf3-e7b1faa3ef14"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-01-N-4121",
                 "uuid": "1c912185-fcf8-4b95-89cc-0e1929b150c8"
             },
@@ -435,7 +435,8 @@
             }
         ],
         "reviewed": true,
-        "standard_ratio": 298.56,
-        "value": 0.9738909986476748
+        "source_correction": true,
+        "standard_ratio": null,
+        "value": 1.0195499935734618
     }
 }
