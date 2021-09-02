@@ -132,9 +132,9 @@
         "value": 1.0933002136009944e-07
     },
     "Ar39": {
-        "error": 1.8655304041949868e-07,
+        "error": 3.3956783061434165e-07,
         "error_type": "",
-        "fit": "Bracketing Average",
+        "fit": "Succeeding",
         "references": [
             {
                 "exclude": "ok",
@@ -173,7 +173,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.8623986996825917e-06
+        "value": 2.4146998294059995e-06
     },
     "Ar40": {
         "error": 4.0258865429675416e-06,
